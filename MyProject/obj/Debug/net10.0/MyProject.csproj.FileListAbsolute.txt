@@ -1,0 +1,15 @@
+/workspaces/csharpproject/MyProject/bin/Debug/net10.0/MyProject
+/workspaces/csharpproject/MyProject/bin/Debug/net10.0/MyProject.deps.json
+/workspaces/csharpproject/MyProject/bin/Debug/net10.0/MyProject.runtimeconfig.json
+/workspaces/csharpproject/MyProject/bin/Debug/net10.0/MyProject.dll
+/workspaces/csharpproject/MyProject/bin/Debug/net10.0/MyProject.pdb
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/MyProject.AssemblyInfoInputs.cache
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/MyProject.AssemblyInfo.cs
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/MyProject.csproj.CoreCompileInputs.cache
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/MyProject.sourcelink.json
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/MyProject.dll
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/refint/MyProject.dll
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/MyProject.pdb
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/MyProject.genruntimeconfig.cache
+/workspaces/csharpproject/MyProject/obj/Debug/net10.0/ref/MyProject.dll
