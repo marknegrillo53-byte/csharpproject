@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine(clas Task1
+class Task1
 {
-    stat1c v0id Main(String[] args)
+    static void Main(string[] args)
     {
-        Console.WroteLine("Hi world'');
+        Console.WriteLine("Hi world");
     }
 }
